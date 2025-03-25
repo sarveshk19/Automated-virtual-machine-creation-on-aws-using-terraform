@@ -74,5 +74,6 @@ json
 - CLI-based input support
 
 ## 📞 Contact
+sarvesh.spk.1909@gmail.com
 For questions or feedback, please reach out!
 
